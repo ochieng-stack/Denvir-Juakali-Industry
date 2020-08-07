@@ -1,0 +1,442 @@
+body{
+    background color: rgba(18, 16, 20, 0.97);
+}
+div.absolute{
+    position:absolute;
+    top:59px;
+    height:28px;
+    width:302px;
+    left:55.5px;
+}
+p{
+    font-family:Roboto;
+    font-style:normal;
+}
+p.normal{
+    font-weight:normal;
+}
+div.a{
+    font-size:24px;
+    line-height:28px;
+}
+body{
+    background color: rgba(103, 137, 125, 0.67);
+}
+div.absolute{
+    position:absolute;
+    top:17px;
+    height:112px;
+    width:403px;
+    left:5px;
+}
+body{
+    background color: rgba(3, 0, 0, 0.86);
+}
+div.absolute{
+    position:absolute;
+    top:0px;
+    height:546px;
+    width:427px;
+    left:-7px;
+body{
+    background color:black;
+}
+div.absolute{
+    position:absolute;
+    top:329px;
+    height:21px;
+    width:52px;
+    left:7px;
+}
+p{
+    font-family: Roboto;
+    font-style:normal;
+}
+p.normal{
+    font-weight:normal;
+}
+div.b{
+    font-size:18px;
+    line-height:21px;
+}
+body{
+    background color:#4C9EBO;
+}
+div.absolute{
+    width:74px;
+    height:32px;
+    left:7px;
+    top:323.5px;
+}
+body{
+    background: rgba(72, 206, 215, 0.7);
+}
+div.absolute{
+    width:80px;
+    height:37px;
+    left:4px;
+    top:384,5px;
+}
+body{
+    background color:black;
+}
+div.absolute{
+    position:absolute;
+    width:92px;
+    height:11px;
+    top:449px;
+}
+p{
+    font-family:Roboto;
+    font-style:normal;
+}
+p.normal{
+    font-weight:normal;
+}
+div.c{
+    font-size:18px;
+    line-height:21px;
+}
+body{
+    background color: rgba(98, 197, 210, 0.78);
+}
+div.absolute{
+    position:absolute;
+    width:101px;
+    height:34px;
+    left:6px;
+    top:442.5px;
+}
+body{
+     background-color:black;
+}
+div.absolute{
+    position:absolute;
+    width:174px;
+    height:21px;
+    left:6px;
+    top:503px;
+}
+p{
+    font-family:Roboto;
+    font-style:normal;
+}
+p.normal{
+    font-weight:normal;
+}
+div.d{
+    font-size:18px;
+    line-height:21px;
+}
+body{
+    background-color:rgba(70, 182, 182, 0.96);
+}
+div.absolute{
+    position:absolute;
+    width:176px;
+    height:33.5px;
+    left:4px;
+    top:492.5px;
+}
+body{
+    background-color:black;
+}
+div.absolute{
+    position:absolute;
+    width:78px;
+    height:28px;
+    left:706px;
+    top:22px;
+}
+p{
+    font-family:Roboto;
+}
+p.normal{
+    font-style:normal;
+    font-weight:normal;
+}
+div.e{
+    font-size:24px;
+    line-height:28px;
+}
+body{
+    background-color: url(juakali-data.jpg);
+}
+div.absolute{
+    position:absolute;
+    width:449px;
+    height:546px;
+    left:408px;
+    top:0px;
+}
+body{
+    background-color:#070404;
+}
+div.absolute{
+    position:absolute;
+    width: 706px;
+    height:374px; 
+    left:0px;
+    top:0px;
+}
+body{
+    background-color: url(download.jpg);
+}
+div.absolute{
+    position:absolute;
+    width:214px;
+    height:139px;
+    left:411px;
+    top:21px;
+}
+body{
+    background-color: url(images.jpg);
+    transform:rotate(1.05deg);
+}
+div.absolute{
+    position:absolute;
+    width:212px;
+    height:127px;
+    left:414.18px;
+    top:207.08px;
+}
+body{
+    background-color:#EECFCF;
+}
+div.absolute{
+    position:absolute;
+    width:343px;
+    height:374px;
+    left:7px;
+    top:122px;
+}
+p{
+    font-family:Roboto;
+}
+p.normal{
+    font-style:normal;
+    font-weight:normal;
+}
+div.f{
+    font-size:18px;
+    line-height:21px;
+}
+body{
+    background-color:#0F0B0B
+}
+div.absolute{
+    position:absolute;
+    width: 833px;
+    left:0px;
+    top:-4px;
+}
+body{
+    background-color:#FFFFFF;
+}
+div.absolute{
+    position:absolute;
+    width:190px;
+    height:28px;
+    left:12px;
+    top:25px;
+}
+p{
+    font-famly:Roboto;
+}
+p.normal{
+    font-style:normal;
+    font-weight:normal;
+}
+div.g{
+    font-size:18px;
+    liine-height:21px;
+}
+body{ 
+    background-color:#FDFDFD;
+}
+div.absolute{
+    position:absolute;
+    width:123px;
+    height:26px;
+    left:13px;
+    top:59px;
+}
+p{
+    font-family:Roboto;
+}
+p.normal{
+    font-style:normal;
+    font-weight: normal;
+}
+div.h{
+    font-size: 18px;
+    line-height: 21px;
+}
+body{
+    background-color:#FAF2F2;
+}
+div.absolute{
+    position:absolute;
+    width:209px;
+    height:28px;
+    left:16px;
+    top:99px;
+}
+P{
+    font-family:Roboto;
+}
+p.normal{
+    font-style: normal;
+    font-weight: normal;
+}
+div.i{
+    font-size: 18px;
+    line-height: 21px;
+}
+body{
+    background-color: #F8E7E7;
+}
+div.absolute{
+    position:absolute;
+    width:114px;
+    height:19px;
+    left:133px;
+}
+body{
+    background-color:url(4x0rlgbbv1csnap-2019-01-14-15h59m05d026.png);
+    border-radius:25px ;
+}
+div.absolute{
+    position:absolute;
+    width:101.79px;
+    height:68.45px;
+    left:19.53px;
+    top:16.32px;
+}
+body{
+    background-color:black
+}
+div.absolute{
+    position:absolute;
+    width:467.48px;
+    height:100.55px;
+    left:134.33px;
+    top:64.95px;
+}
+p{
+    font-family:Roboto;
+}
+p.normal{
+    font-style:normal;
+    font-weight:normal;
+}
+dev.j{
+    font-size:14px;
+    line-height:16px;
+}
+div.absolute{
+    position:absolute;
+    width:505.45px;
+    height:114.95px;
+    left:118.2px;
+    top:50.54px;
+}
+body{
+    background-color:#FFFFFF ;
+    border-radius:34px;
+}
+div.absolute{
+    position:absolute;
+    width:886px;
+    height:511px;
+    left:-12px;
+    top:0px;
+}
+body{
+    background color:black;
+}
+div.absolute{
+    position:absolute;
+    width:107.06px;
+    height:86.87px;
+    left:11.14px;
+    top:203.6px;
+}
+body{
+    background-color: url(images(1).jpg);
+    border-radius: 25px;
+}
+div.absolute{
+    position:absolute;
+    width:472px;
+    height:75.47px;
+    left:138px;
+    top:290.47px;
+}
+p{
+    font-family:Roboto;
+}
+p.normal{
+    font-style:normal;
+    font-weight:normal;
+}
+div.k{
+    font-size:14px;
+    line-height:16px;
+}
+body{
+    color:black;
+}
+div.absolute{
+    position:absolute;
+    width:497.06px;
+    height:99.16px;
+    left:118.2px;
+}
+body{
+    background-color: #F8F4F4;
+    border-radius: 34px;
+}
+body{
+    background-color:url(karmalitjuakali150220001pic855x1280.jpg);
+    border-radius: 24px;
+}
+div.absolute{
+    position:absolute;
+    width:83.26px;
+    height:68.45px;
+    left:11.14px;
+    top:389.63px;
+}
+body{
+    color:black
+}
+div.absolute{
+    position:absolute;
+    width:507.15px;
+    height:53.53px;
+    left:108.11px;
+    top:444.91px;
+}
+p{
+    font-family:Roboto;
+}
+p.normal{
+    font-style: normal;
+    font-weight: normal;
+}
+div.l{
+    font-size: 14px;
+    line-height: 16px;
+}
+div.absolute{
+    position:absolute;
+    width:525.63px;
+    height:64.94px;
+    left:94.4px;
+    top:433.5px;
+}
+body{
+    background-color: #FFFAFA;
+    border-radius: 24px;
+}
